@@ -8,7 +8,7 @@ Você vai enviar um arquivo para o GitHub e ver um **robô** conferir e **public
 Depois vai enviar um arquivo **quebrado** e ver o robô **bloquear** a publicação.
 
 Não precisa instalar nada nem saber programar. Só um navegador. 🙌
-
+# . 
 ---
 
 ## 🧠 A ideia
