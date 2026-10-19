@@ -15,6 +15,8 @@ Não precisa instalar nada nem saber programar. Só um navegador. 🙌
 
 ## 🧠 A ideia
 
+#Matricular Henrique na Sala 07. 
+
 ```mermaid
 flowchart LR
     A[📤 Você envia o arquivo] --> B{🤖 Robô confere:<br/>o arquivo está certo?}
