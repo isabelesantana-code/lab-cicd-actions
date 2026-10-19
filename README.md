@@ -10,7 +10,7 @@ Depois vai enviar um arquivo **quebrado** e ver o robô **bloquear** a publicaç
 Não precisa instalar nada nem saber programar. Só um navegador. 🙌
 # . 
 
-#Encaminhar modelo teste para o usuário final
+#Encaminhar modelo teste para o usuário final. 
 ---
 
 ## 🧠 A ideia
